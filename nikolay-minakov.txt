@@ -1,4 +1,7 @@
 This my first file in branch nikolay-minakov
 -- add your text after this line
 
+added this text by rahmatjon umarov at 02.02.2023 11:39 GMT+05
+Take us 5 pionts for this practice.
+
 -- end texts
